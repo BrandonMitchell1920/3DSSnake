@@ -5,7 +5,7 @@ future projects.
 I have included the source code, the images and audio I used, some tools I used to build the .cia and .3ds, and the pre-compiled
 .3dsx, .smdh, .3ds, and .cia, so you don't need to compile it yourself (I found that incredible annoying when I used to not know
 how to compile the files and/or couldn't due not having my own computer).  The .3ds and .cia are in the CIABUILDER-master.  Use 
-the tools in there for own projects.  Also, the documentation.md is a file including all of the ctrulib functions.
+the tools in there for your own projects.  Also, the documentation.md is a file including all of the ctrulib functions.
 
 Anyhow, There are three game modes.  One is the normal snake, one is two snakes (one on each screen), and the third is just a sped
 up version of the first.  You start at a menu that lets you choose.  Pressing start will terminate a game if in a game and exit
