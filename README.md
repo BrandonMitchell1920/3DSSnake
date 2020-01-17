@@ -13,4 +13,4 @@ the program if in the menu.  There is also an exit option in the menu that does 
 Initially, it will be zero, but it will go up after the first game to at least five.  Exiting the game saves your score.  A file is
 created automatically is there is none, so don't bother about creating one.  The .3dsx and .cia share the same save file, so if you
 install one first, play, and then install the other, you don't have to worry about losing your score.  It is saved to the root of 
-the SD card as a .hiss file.  Get it?  .hiss because it's a snake?  Installs like every other homebrea program.
+the SD card as a .hiss file.  Get it?  .hiss because it's a snake?  Installs like every other homebrew program.
